@@ -1,0 +1,16 @@
+.nom{
+    margin: 0px;
+}
+.nop{
+    padding: 0px;
+}
+
+@media (max-width: 575px) {
+    .custom-height {
+        height: 80px;
+    }
+
+    .ps-xs-0{
+        padding-left: 0px;
+    }
+}

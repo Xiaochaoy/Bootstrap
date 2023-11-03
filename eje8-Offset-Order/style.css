@@ -1,0 +1,16 @@
+.cuadrado{
+    height: 70px;
+    
+}
+
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (min-width: 768px) {
+    .offsetd {
+        margin-right: 25%;
+    }
+}
